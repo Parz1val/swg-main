@@ -1,3 +1,6 @@
+# Parz1val's Package 
+This is just a fun little project of mine to play around with in my free time. Feel free to take anything if you find it usefull. Just let me know so I can check out your server! Thanks to SWG-Source and all those (you know who you are) that came before and made this all possible for us to continue our dreams.
+
 # SWG Source
 This repository houses the base of the SWG Source project. 
 
