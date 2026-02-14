@@ -1,3 +1,6 @@
+#created to provide the community with the proper changes for the Combat Upgrade changes. publicly available. 
+
+
 # SWG Source
 This repository houses the base of the SWG Source project. 
 
